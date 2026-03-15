@@ -6,7 +6,7 @@ Asturias, Spain
 
 varodv@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/álvaro-díaz-vidal-107311144)
+[LinkedIn](https://www.linkedin.com/in/varodv)
 
 [GitHub](https://github.com/varodv)
 
