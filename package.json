@@ -1,0 +1,10 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "md-to-pdf Alvaro_Diaz_Senior_Frontend_Engineer.md"
+  },
+  "devDependencies": {
+    "md-to-pdf": "^5.2.5"
+  }
+}
