@@ -2,7 +2,7 @@
   "name": "cv",
   "version": "1.0.0",
   "scripts": {
-    "build": "md-to-pdf Alvaro_Diaz_Senior_Frontend_Engineer.md"
+    "build": "md-to-pdf Alvaro_Diaz_Senior_Frontend_Engineer_EN.md && md-to-pdf Alvaro_Diaz_Senior_Frontend_Engineer_ES.md"
   },
   "devDependencies": {
     "md-to-pdf": "^5.2.5"
