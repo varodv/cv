@@ -50,12 +50,14 @@ Eager to contribute to teams developing scalable and user-centric products.
 - Sass
 - CSS Modules
 - TailwindCSS
-- Vite
-- Webpack
-- Rollup
 - D3
 - Recharts
 - Storybook
+- Vite
+- Webpack
+- Rollup
+- ESLint
+- Prettier
 
 ## Backend
 
@@ -83,6 +85,9 @@ Eager to contribute to teams developing scalable and user-centric products.
 - Jenkins
 - Docker
 - AWS
+- nginx
+- Vercel
+- SonarQube
 - Figma
 - Jira
 

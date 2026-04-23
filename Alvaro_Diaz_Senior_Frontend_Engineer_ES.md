@@ -50,12 +50,14 @@ Busco contribuir en equipos que desarrollan productos escalables y centrados en 
 - Sass
 - CSS Modules
 - TailwindCSS
-- Vite
-- Webpack
-- Rollup
 - D3
 - Recharts
 - Storybook
+- Vite
+- Webpack
+- Rollup
+- ESLint
+- Prettier
 
 ## Backend
 
@@ -83,6 +85,9 @@ Busco contribuir en equipos que desarrollan productos escalables y centrados en 
 - Jenkins
 - Docker
 - AWS
+- nginx
+- Vercel
+- SonarQube
 - Figma
 - Jira
 
