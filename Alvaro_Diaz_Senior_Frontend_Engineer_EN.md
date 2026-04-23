@@ -6,7 +6,9 @@ Asturias, Spain • Remote
 
 [LinkedIn](https://www.linkedin.com/in/varodv) • [GitHub](https://github.com/varodv)
 
-varodv@gmail.com • [(+34) 669 068 013](tel:+34669068013)
+varodv@gmail.com
+
+[(+34) 669 068 013](tel:+34669068013)
 
 ---
 

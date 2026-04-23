@@ -6,7 +6,9 @@ Asturias, España • Remoto
 
 [LinkedIn](https://www.linkedin.com/in/varodv) • [GitHub](https://github.com/varodv)
 
-varodv@gmail.com • [(+34) 669 068 013](tel:+34669068013)
+varodv@gmail.com
+
+[(+34) 669 068 013](tel:+34669068013)
 
 ---
 
@@ -35,6 +37,8 @@ Busco contribuir en equipos que desarrollan productos escalables y centrados en 
 | **Herramientas** | Git, npm, pnpm, Lerna, GitHub Actions, Jenkins, Docker, Amazon Web Services (AWS), nginx, Vercel, SonarQube, Figma, Jira |
 
 ---
+
+<br/>
 
 # Experiencia profesional
 
@@ -139,6 +143,8 @@ Escuela Politécnica de Ingeniería de Gijón, España • Enero 2015 - Junio 20
 - Inglés (competencia profesional)
 
 ---
+
+<br/>
 
 # Intereses
 
