@@ -1,24 +1,22 @@
 # Álvaro Díaz Vidal
 
-**Ingeniero Frontend Senior**
+**Senior Frontend Engineer • Tech Lead • Data Visualization**
 
-Asturias, España
+Asturias, España • Remoto
 
-varodv@gmail.com
+[LinkedIn](https://www.linkedin.com/in/varodv) • [GitHub](https://github.com/varodv)
 
-[LinkedIn](https://www.linkedin.com/in/varodv)
-
-[GitHub](https://github.com/varodv)
+varodv@gmail.com • [(+34) 669 068 013](tel:+34669068013)
 
 ---
 
 # Perfil profesional
 
-**Ingeniero Frontend Senior y Tech Lead** con más de **10 años de experiencia** en el diseño de arquitectura y desarrollo de aplicaciones web altamente escalables y de alto tráfico para grandes plataformas de comercio electrónico que dan servicio a más de **400M** de usuarios.
+**Senior Frontend Engineer y Tech Lead** con **más de 11 años de experiencia** en el diseño de arquitectura y desarrollo de aplicaciones web altamente escalables y de alto tráfico para grandes plataformas de comercio electrónico que dan servicio a **más de 400M de usuarios**.
 
-Especializado en el ecosistema **JavaScript/TypeScript** con amplia experiencia en frameworks modernos (**React, Vue**) y arquitectura de soluciones. Sólida trayectoria en **visualización de datos**, habiendo diseñado y desarrollado complejas herramientas de análisis y monitorización utilizando **D3**.
+Especializado en el ecosistema **JavaScript/TypeScript** con amplia experiencia en frameworks modernos (**React, Vue.js**) y arquitectura de soluciones. Sólida trayectoria en **visualización de datos**, habiendo diseñado y desarrollado complejas herramientas de análisis y monitorización con **más de 10M de consultas diarias** utilizando **D3**.
 
-Experiencia liderando equipos multifuncionales de más de **8** ingenieros y en el desarrollo integral de productos digitales en colaboración con equipos de diseño, backend y producto.
+Experiencia liderando equipos multifuncionales de más de **8 ingenieros** y en el desarrollo integral de productos digitales en colaboración con equipos de diseño, backend y producto.
 
 Aporto una visión técnica y estratégica del producto, combinando liderazgo, definición de arquitecturas y un fuerte enfoque en la **experiencia de usuario (UX)** para construir interfaces rápidas, mantenibles y visualmente cuidadas.
 
@@ -45,13 +43,18 @@ Busco contribuir en equipos que desarrollan productos escalables y centrados en 
 - Vue.js
 - Next.js
 - Nuxt
+- TanStack Query
+- Zustand
+- Pinia
 - Server-side rendering (SSR)
 - Sass
+- CSS Modules
 - TailwindCSS
 - Vite
 - Webpack
 - Rollup
 - D3
+- Recharts
 - Storybook
 
 ## Backend
@@ -60,6 +63,8 @@ Busco contribuir en equipos que desarrollan productos escalables y centrados en 
 - Spring
 - .NET
 - MongoDB
+- PostgreSQL
+- Redis
 
 ## Testing
 
@@ -71,11 +76,13 @@ Busco contribuir en equipos que desarrollan productos escalables y centrados en 
 ## Herramientas
 
 - Git
+- npm
+- pnpm
 - Lerna
 - GitHub Actions
 - Jenkins
-- AWS
 - Docker
+- AWS
 - Figma
 - Jira
 
@@ -83,9 +90,11 @@ Busco contribuir en equipos que desarrollan productos escalables y centrados en 
 
 # Experiencia profesional
 
-### **Empathy.co** | Tech Lead | *Gijón, España (Mayo 2018 – Febrero 2026)*
+### Tech Lead
 
-Liderazgo técnico y en la arquitectura de soluciones avanzadas de búsqueda y descubrimiento desplegadas en plataformas de comercio electrónico de alto tráfico manejando más de **10M** de consultas diarias.
+Empathy.co, Gijón (España) y remoto • Mayo 2018 – Febrero 2026 (8+ años)
+
+Liderazgo técnico y en la arquitectura de soluciones avanzadas de búsqueda y descubrimiento desplegadas en plataformas de comercio electrónico de alto tráfico manejando **más de 10M de consultas diarias**.
 
 **Principales logros:**
 - Gestión y mentorización de equipos de desarrollo, supervisando tanto su dirección técnica como su crecimiento profesional.
@@ -94,12 +103,15 @@ Liderazgo técnico y en la arquitectura de soluciones avanzadas de búsqueda y d
 - Gestión de prioridades y asignación de recursos.
 - Comunicación entre distintos departamentos y resolución de problemas técnicos.
 - Colaboración estratégica con una de las mayores cadenas de supermercados de EE. UU. para la entrega de soluciones de comercio electrónico a medida.
+- Desempeño del rol de **Security Champion**, supervisando la identificación y resolución de problemas de seguridad en el frontend e impulsando la mejora continua de la seguridad.
 
-**Tecnologías principales:** Vue.js, React, TypeScript, Sass, TailwindCSS, Webpack, Vite, Lerna.
+**Tecnologías principales:** Vue.js, React, Next.js, TypeScript, D3, Sass, TailwindCSS, Storybook, Jest, Vitest, Cypress, Playwright, Webpack, Rollup, Vite, pnpm, Lerna, Python, MongoDB, Docker, AWS, GitHub Actions, Jenkins, Figma.
 
 ---
 
-### **Empathy.co** | Ingeniero Frontend y de Visualización de Datos | *Gijón, España (Agosto 2017 – Abril 2018)*
+### Frontend & Data Visualization Engineer
+
+Empathy.co, Gijón (España) • Agosto 2017 – Abril 2018 (9 meses)
 
 Desarrollo de soluciones avanzadas de búsqueda y descubrimiento para grandes plataformas de comercio electrónico.
 
@@ -108,11 +120,13 @@ Desarrollo de soluciones avanzadas de búsqueda y descubrimiento para grandes pl
 - Diseño y desarrollo de herramientas para el análisis y monitorización del motor de búsqueda.
 - Migración de aplicaciones legacy a stacks tecnológicos modernos.
 
-**Tecnologías principales:** Vue.js, TypeScript, Sass, D3, Webpack, Python.
+**Tecnologías principales:** Vue.js, TypeScript, D3, Sass, Jest, Webpack, Python, MongoDB, Jenkins.
 
 ---
 
-### **Seresco** | Ingeniero Frontend | *Oviedo, España (Abril 2015 – Julio 2017)*
+### Ingeniero Frontend
+
+Seresco, Oviedo (España) • Abril 2015 – Julio 2017 (2+ años)
 
 Desarrollo de soluciones de software robustas para la gestión de recursos humanos empresariales y la prevención de riesgos laborales.
 
@@ -125,25 +139,29 @@ Desarrollo de soluciones de software robustas para la gestión de recursos human
 
 ---
 
-### **Escuela Politécnica de Ingeniería de Gijón** | Desarrollador Full Stack | *Gijón, España (Febrero 2014 – Octubre 2014)*
+### Desarrollador Full Stack
+
+Escuela Politécnica de Ingeniería de Gijón, España • Febrero 2014 – Octubre 2014 (9 meses)
 
 Desarrollo de un sistema para la gestión y optimización energética de equipos informáticos de manera autónoma y remota.
 
 **Principales logros:**
 - Definición, planificación y desarrollo full-stack del sistema SIGEON utilizando **.NET**, **C++** y **SQL**, junto con un frontend personalizado en **JavaScript/HTML/CSS**.
-- Despliegue de la aplicación para la gestión energética autónoma y remota en más de **800** terminales informáticos dentro de la red de la organización.
+- Despliegue de la aplicación para la gestión energética autónoma y remota en **más de 800 terminales informáticos** dentro de la red de la organización.
 - Optimización del consumo energético de los equipos, demostrando un ahorro potencial de costes energéticos a nivel de organización del **40%**.
 
 **Tecnologías principales:** HTML, JavaScript, CSS, .NET, SQL, C++.
 
 ---
 
-### **Espiral MS** | Ingeniero de Software en prácticas | *Gijón, España (Junio 2014 – Septiembre 2014)*
+### Ingeniero de Software en prácticas
+
+Espiral MS, Gijón (España) • Junio 2014 – Septiembre 2014 (4 meses)
 
 Desarrollo de una solución para la gestión de activos, servicios y procesos TI.
 
 **Principales logros:**
-- Desarrollo de un sistema de ayuda completo e integrado para los productos de gestión TI Proactivanet y Prosafety utilizando **JavaScript**, **HTML** y **CSS**.
+- Desarrollo de un sistema de ayuda completo e integrado para los productos de gestión TI Proactivanet y Prosafety utilizando JavaScript, HTML y CSS.
 
 **Tecnologías principales:** HTML, JavaScript, CSS.
 
@@ -151,13 +169,17 @@ Desarrollo de una solución para la gestión de activos, servicios y procesos TI
 
 # Educación
 
-### **Escuela Politécnica de Ingeniería de Gijón** | Grado en Ingeniería Informática en Tecnologías de la Información | *(Septiembre 2010 - Junio 2014)*
+### Grado en Ingeniería Informática en Tecnologías de la Información
+
+Escuela Politécnica de Ingeniería de Gijón, España • Septiembre 2010 - Junio 2014 (4 años)
 
 - **Premio:** Premio "Sociedad de Partners" al mejor Trabajo Fin de Grado.
 
 ---
 
-### **Escuela Politécnica de Ingeniería de Gijón** | Máster Universitario en Ingeniería Informática | *(Enero 2015 - Junio 2016)*
+### Máster Universitario en Ingeniería Informática
+
+Escuela Politécnica de Ingeniería de Gijón, España • Enero 2015 - Junio 2016 (1.5 años)
 
 - **Notas:** A falta del Trabajo Fin de Máster.
 
