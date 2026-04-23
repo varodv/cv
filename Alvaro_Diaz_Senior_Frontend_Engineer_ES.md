@@ -84,7 +84,7 @@ Busco contribuir en equipos que desarrollan productos escalables y centrados en 
 - GitHub Actions
 - Jenkins
 - Docker
-- AWS
+- Amazon Web Services (AWS)
 - nginx
 - Vercel
 - SonarQube
