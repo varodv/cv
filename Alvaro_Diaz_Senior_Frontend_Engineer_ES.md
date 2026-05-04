@@ -44,7 +44,7 @@ Busco contribuir en equipos que desarrollan productos escalables y centrados en 
 
 ### Tech Lead
 
-Empathy.co, Gijón (España) y remoto • Mayo 2018 – Febrero 2026 (8+ años)
+Empathy.co, Gijón (España) y remoto • Mayo 2018 – Febrero 2026 (8 años)
 
 Liderazgo técnico y en la arquitectura de soluciones avanzadas de búsqueda y descubrimiento desplegadas en plataformas de comercio electrónico de alto tráfico manejando **más de 10M de consultas diarias**.
 
